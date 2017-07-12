@@ -15,6 +15,30 @@ console.log(pet);
 *
 * Each value should be a String. 
 **/
+var firstName;
+var lastName;
+var birthPlace;
+var favoriteFood;
+var bestMovie;
+var favLoveSong;
+var cuteAnimal;
+var favColor;
+var favSneaker;
+var coffeeShop;
+
+
+firstName="Cindy";
+lastName="Takara";
+birthPlace="Honolulu";
+favoriteFood="Pizza";
+bestMovie="Star Wars";
+favLoveSong="Bless This Broken Road";
+cuteAnimal="otter";
+favColor="Sage Green";
+favSneaker="Nike";
+coffeeShop="Starbucks";
+console.log(firstName);
+
 
 
 /**
@@ -25,8 +49,40 @@ console.log(pet);
 *
 * Each value should be a Number
 **/
+var favoriteNumber
+var currentYear
+var thatOnePrinceSong
+var tokyoOlympics
+var mariahCareyAge
+var currentTemp
+var studentsInClass
+var numOfJapanPrefectures
+var currentIphoneModel
+var shoeSize
 
+favoriteNumber=9;
+currentYear=2017;
+thatOnePrinceSong=7;
+tokyoOlympics=2020;
+mariahCareyAge=47;
+currentTemp=85;
+studentsInClass=5;
+numOfJapanPrefectures=47;
+currentIphoneModel=7s;
+shoeSize=7;
 
+console.log(favoriteNumber);
+console.log(currentYear);
+console.log(thatOnePrinceSong);
+console.log(tokyoOlympics);
+console.log(mariahCareyAge);
+console.log(currentTemp);
+console.log(studentsInClass);
+console.log(numOfJapanPrefectures)
+console.log(currentIphoneModel);
+console.log(shoeSize);
+
+console.log(favoriteNumber,currentIphoneModel, shoeSize);
 /**
 * #3
 * Variables with a Boolean value
@@ -35,6 +91,28 @@ console.log(pet);
 *
 * Each value should be a Boolean
 **/
+var likesMcDonalds= true;
+var watchedMrRobot=false;
+var ranMarathon=false;
+var wrestledABear=false;
+var lovesDonuts=false;
+var readHarryPotter=true;
+var sleptInClass=true;
+var drinksCoffee=true;
+var shopsAtWholeFoods=false;
+var ownsRedShoes=false;
+
+console.log(likesMcDonalds);
+console.log(watchedMrRobot)
+console.log(ranMarathon);
+console.log(wrestledABear);
+console.log(lovesDonuts);
+console.log(readHarryPotter);
+console.log(sleptInClass);
+console.log(drinksCoffee);
+console.log(shopsAtWholeFoods);
+console.log(ownsRedShoes);
+
 
 
 /**
@@ -46,25 +124,37 @@ console.log(pet);
 * Each value should be Null 
 **/
 
+var completedPrepClass=null;
+
+console.log("completedPrepClass," completedPrepClass);
+var traveledToMars=null;
+var scoredTDinNFL=null;
+
+
 
 /*
 #5. 
 * What is the difference between null and undefined? Type your answer in two or three commented-out sentences.
 */
 
+/** nulls are have no value.  Undefined is when the value has not been assigned. 
 
 /**
-* #6
-* Variables with an Array value
-* 
-* Declare a variable named 'plateLunch` and assign it an array containing 5 of your favorite lunch items.
+
 * Declare a variavle named `fruitBasket` and assign it an array containing 5 fruits of your choosing.
 * Declare a variable named `westCoast` and assign it an array containing states found on the west coast of the US.
 * Declare a variable named `lotteryResult and assign it an array containing 5 random numbers.
 * Declare a variable named `duets` and assign it an array containing 3 nested arrays, each containing the names of 2 singers or bands.
 * Declare a variable named `mixPlate` and assign it an array containing different data types of your choosing.
 **/
+var emptyArray= []
+var plateLunch=["rice","chicken","bbq meat","mac salad", "fish"];
+console log.("plateLunch",plateLunch);
 
+var lotteryResult=[21, 4,2,23,15];
+console.log ("lotteryResult", lotteryResult);
+//console.log(lottery)
+var duets=[["Sonny and Cher", "Huey Lewis and the News",]["Ben and Malia", "C and K"]];
 
 
 /*7
@@ -77,6 +167,8 @@ What is the index position of carrot cake? Please print this item to the console
 What is the index position of lemon bars? Please print this item to the console.
 */
 
+var partyList=["carrot cake","rocky road ice cream", "mochiko chicken", "orange tag", "lemon bars"]
+console.log("First Index" partyList[4])
 
 
 /*
