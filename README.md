@@ -3,11 +3,11 @@
 ##Getting Started
 1. **Fork** this repository
 2. **Clone** this repository from your personal Github account:
-    - Copy the HTTPS or SSH address on the page.
-    - Run the command `$ git clone [SSH or HTTP address]` in your terminal to clone this repository into your DevLeague folder 
-      in  your computer (you don't need to type the "$"; this is the command __prompt__, and is used to signify your terminal is ready for commands).
+    - Copy the HTTPS address on the page.
+    - Run the command `$ git clone [HTTP address]` in your terminal to clone this repository into your teachertraining folder 
+      in  your computer.
 3. From your terminal navigate to your DevLeague folder and into the js-basics assignment:
-    - `$ cd DevLeague`
+    - `$ cd teachertraining`
     - `$ ls` 
     - `cd js-basics`
 4. Open the js-basics assignment in sublime and write your code in the `index.js` file.
